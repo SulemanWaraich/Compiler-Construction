@@ -1,0 +1,7 @@
+begin main {
+    Alphan[] names = {"Ali", "Sara", "Zain"};
+    number[] marks = {77, 88, 99};
+
+    publish(names[1]);   
+    publish(marks[2]);   
+}

@@ -1,0 +1,6 @@
+begin main {
+    Alphan name = "Ali";
+    publish(name);
+    number age = 25;
+    publish(age);
+}
