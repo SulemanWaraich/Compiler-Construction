@@ -1,0 +1,9 @@
+begin main {
+    number x = 20;
+    number y = 4;
+   Alphan[] students = { "Ali", "Sara", "Zara" };
+number[] scores = { 98, 85.5, 74, 90 };
+publish(students[1]);
+publish(scores[2])
+
+}

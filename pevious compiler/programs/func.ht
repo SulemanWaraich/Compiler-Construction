@@ -1,0 +1,6 @@
+func sum(number a, number b) {
+    number result = a + b;
+    publish result;
+}
+
+call sum(10, 5);
